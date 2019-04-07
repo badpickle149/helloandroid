@@ -8,7 +8,7 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "edu.washington.weng2k17.hello"
-        minSdkVersion 22
+        minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
